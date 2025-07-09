@@ -5,6 +5,8 @@ We love Adminer! And we had to bring it back. This bundle brings back Adminer in
 
 Also shoutout to Blackbit (https://github.com/BlackbitDigitalCommerce) for the original implementation for Pimcore 11. We separeted this from the amazing DataDirector Bundle into a standalone bundle.
 
+This fork removed the twig conflict to add it to modern Pimcore Installations.
+
 # Installation
 
 1. Install the Extension
